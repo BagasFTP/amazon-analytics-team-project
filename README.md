@@ -100,6 +100,7 @@ Produk terbaik umumnya:
 │
 ├── powerbi/
 │   └── Product Rating & Sales Insights.pbix
+│   └── dashboard.jpeg
 │
 └── README.md
 ```
@@ -127,7 +128,7 @@ Produk terbaik umumnya:
 ## 📸 9. Preview Dashboard
  
 ```
-![Dashboard Preview](powerbi/dashboard-preview.png)
+![Dashboard Preview](powerbi/dashboard.jpeg)
 ```
 
 ---
