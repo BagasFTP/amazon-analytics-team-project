@@ -99,7 +99,7 @@ Produk terbaik umumnya:
 │   └── 2_eda_visualization.ipynb
 │
 ├── powerbi/
-│   └── Product Rating & Sales Insights.pbix
+│   ├── Product Rating & Sales Insights.pbix
 │   └── dashboard.jpeg
 │
 └── README.md
@@ -126,8 +126,7 @@ Produk terbaik umumnya:
 ---
 
 ## 📸 9. Preview Dashboard
- 
-```
+
 ![Dashboard Preview](powerbi/dashboard.jpeg)
 
 ---
@@ -151,4 +150,3 @@ data/amazon_clean.csv
 ```
 
 ---
- 
