@@ -128,9 +128,7 @@ Produk terbaik umumnya:
 ## 📸 9. Preview Dashboard
  
 ```
-![image alt](https://github.com/BagasFTP/amazon-analytics-team-project/blob/6627a77fb5071d576376b1ef68f56560e6f66e4f/powerbi/dashboard.jpeg)
-```
-
+![Dashboard Preview](powerbi/dashboard.jpeg)
 ---
 
 ## ▶️ 10. Cara Menjalankan
