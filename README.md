@@ -125,8 +125,7 @@ Produk terbaik umumnya:
 ---
 
 ## 📸 9. Preview Dashboard
-
-Tambahkan screenshot:  
+ 
 ```
 ![Dashboard Preview](powerbi/dashboard-preview.png)
 ```
@@ -136,7 +135,7 @@ Tambahkan screenshot:
 ## ▶️ 10. Cara Menjalankan
 1. Clone repository:
 ```
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/BagasFTP/amazon-analytics-team-project.git
 ```
 
 2. Buka Power BI Desktop  
